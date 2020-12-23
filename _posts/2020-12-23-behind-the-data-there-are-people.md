@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Mismanagement, Disorder & Obscurity: The Pennsylvania Department’s Handling of 
-COVID-19 information"
+title:  "Mismanagement, Disorder & Obscurity: The Pennsylvania Department’s Handling of COVID-19 information"
+date: 2020-12-23
+
 ---
 
 
